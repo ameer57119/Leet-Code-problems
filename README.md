@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ameer57119/Leet-Code-problems/tree/master/0225-implement-stack-using-queues) |
+## Array
+|  |
+| ------- |
+| [1470-shuffle-the-array](https://github.com/ameer57119/Leet-Code-problems/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
