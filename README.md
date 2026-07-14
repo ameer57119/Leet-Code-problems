@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ameer57119/Leet-Code-problems/tree/master/0009-palindrome-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ameer57119/Leet-Code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
