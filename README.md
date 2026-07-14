@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ameer57119/Leet-Code-problems/tree/master/0225-implement-stack-using-queues) |
+| [1603-design-parking-system](https://github.com/ameer57119/Leet-Code-problems/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ameer57119/Leet-Code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/ameer57119/Leet-Code-problems/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/ameer57119/Leet-Code-problems/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
