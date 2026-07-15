@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ameer57119/Leet-Code-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ameer57119/Leet-Code-problems/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/ameer57119/Leet-Code-problems/tree/master/0029-divide-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ameer57119/Leet-Code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/ameer57119/Leet-Code-problems/tree/master/1603-design-parking-system) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ameer57119/Leet-Code-problems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
