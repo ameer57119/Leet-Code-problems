@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ameer57119/Leet-Code-problems/tree/master/0225-implement-stack-using-queues) |
+| [1600-throne-inheritance](https://github.com/ameer57119/Leet-Code-problems/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/ameer57119/Leet-Code-problems/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ameer57119/Leet-Code-problems/tree/master/0001-two-sum) |
+| [1600-throne-inheritance](https://github.com/ameer57119/Leet-Code-problems/tree/master/1600-throne-inheritance) |
 ## String
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1115-print-foobar-alternately](https://github.com/ameer57119/Leet-Code-problems/tree/master/1115-print-foobar-alternately) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/ameer57119/Leet-Code-problems/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/ameer57119/Leet-Code-problems/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
