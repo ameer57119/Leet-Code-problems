@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-print-in-order](https://github.com/ameer57119/Leet-Code-problems/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/ameer57119/Leet-Code-problems/tree/master/1115-print-foobar-alternately) |
+| [1195-fizz-buzz-multithreaded](https://github.com/ameer57119/Leet-Code-problems/tree/master/1195-fizz-buzz-multithreaded) |
 ## Tree
 |  |
 | ------- |
