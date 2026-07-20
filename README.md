@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ameer57119/Leet-Code-problems/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/ameer57119/Leet-Code-problems/tree/master/0065-valid-number) |
+| [0344-reverse-string](https://github.com/ameer57119/Leet-Code-problems/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/ameer57119/Leet-Code-problems/tree/master/1108-defanging-an-ip-address) |
 ## Math
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/ameer57119/Leet-Code-problems/tree/master/1232-check-if-it-is-a-straight-line) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ameer57119/Leet-Code-problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
