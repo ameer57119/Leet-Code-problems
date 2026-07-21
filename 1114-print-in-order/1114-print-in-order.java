@@ -1,31 +1,29 @@
 class Foo {
-    private boolean oneDone;
-    private boolean twoDone;
-    
+    boolean one;
+    boolean two;
+
     public Foo() {
-        oneDone = false;
-        twoDone = false;
+        one = false;
+        two = false;
     }
 
     public synchronized void first(Runnable printFirst) throws InterruptedException {
         printFirst.run();
-        oneDone = true;
+        one = true;
         notifyAll();
     }
 
     public synchronized void second(Runnable printSecond) throws InterruptedException {
-        while (!oneDone) {
+        while (!one)
             wait();
-        }
         printSecond.run();
-        twoDone = true;
+        two = true;
         notifyAll();
     }
 
     public synchronized void third(Runnable printThird) throws InterruptedException {
-        while (!twoDone) {
+        while (!two)
             wait();
-        }
         printThird.run();
     }
 }
