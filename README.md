@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ameer57119/Leet-Code-problems/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/ameer57119/Leet-Code-problems/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/ameer57119/Leet-Code-problems/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/ameer57119/Leet-Code-problems/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/ameer57119/Leet-Code-problems/tree/master/1603-design-parking-system) |
 ## Queue
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ameer57119/Leet-Code-problems/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/ameer57119/Leet-Code-problems/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/ameer57119/Leet-Code-problems/tree/master/1002-find-common-characters) |
+| [1396-design-underground-system](https://github.com/ameer57119/Leet-Code-problems/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/ameer57119/Leet-Code-problems/tree/master/1600-throne-inheritance) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ameer57119/Leet-Code-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ameer57119/Leet-Code-problems/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/ameer57119/Leet-Code-problems/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/ameer57119/Leet-Code-problems/tree/master/1108-defanging-an-ip-address) |
+| [1396-design-underground-system](https://github.com/ameer57119/Leet-Code-problems/tree/master/1396-design-underground-system) |
 | [1768-merge-strings-alternately](https://github.com/ameer57119/Leet-Code-problems/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ameer57119/Leet-Code-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ameer57119/Leet-Code-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
