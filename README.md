@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ameer57119/Leet-Code-problems/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/ameer57119/Leet-Code-problems/tree/master/0705-design-hashset) |
 | [1600-throne-inheritance](https://github.com/ameer57119/Leet-Code-problems/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/ameer57119/Leet-Code-problems/tree/master/1603-design-parking-system) |
 ## Queue
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ameer57119/Leet-Code-problems/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/ameer57119/Leet-Code-problems/tree/master/0035-search-insert-position) |
 | [0500-keyboard-row](https://github.com/ameer57119/Leet-Code-problems/tree/master/0500-keyboard-row) |
+| [0705-design-hashset](https://github.com/ameer57119/Leet-Code-problems/tree/master/0705-design-hashset) |
 | [1002-find-common-characters](https://github.com/ameer57119/Leet-Code-problems/tree/master/1002-find-common-characters) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/ameer57119/Leet-Code-problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ameer57119/Leet-Code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ameer57119/Leet-Code-problems/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/ameer57119/Leet-Code-problems/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/ameer57119/Leet-Code-problems/tree/master/0500-keyboard-row) |
+| [0705-design-hashset](https://github.com/ameer57119/Leet-Code-problems/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/ameer57119/Leet-Code-problems/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/ameer57119/Leet-Code-problems/tree/master/1002-find-common-characters) |
 | [1600-throne-inheritance](https://github.com/ameer57119/Leet-Code-problems/tree/master/1600-throne-inheritance) |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ameer57119/Leet-Code-problems/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/ameer57119/Leet-Code-problems/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/ameer57119/Leet-Code-problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
